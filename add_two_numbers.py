@@ -1,3 +1,4 @@
+import unittest
 """
 
 Title:
@@ -11,21 +12,29 @@ Description/Explanation/Lesson:
 
 Code Prompt/Challenge:
 
-    Change the 0 so that num_sum will equal 20.
+    Change the 0 so that total will equal 20.
 
 Pre-defined Code:
 
-    num_sum = 10 + 0
+    total = 10 + 0
 
 Solution:
 
-    num_sum = 10 + 10
+    total = 10 + 10
 
 Tests:
 
-    self.assertIsInstance(num_sum, int)
-    self.assertEqual(num_sum, 20)
+    self.assertIsInstance(total, int)
+    self.assertEqual(total, 20)
 
 """
 
-num_sum = 10 + 0
+total = 10 + 10
+
+class UnitTests(unittest.TestCase):
+    def test_main(self):
+        self.assertIsInstance(total, int)
+        self.assertEqual(total, 20)
+
+if __name__ == '__main__':
+    unittest.main()
