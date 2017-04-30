@@ -8,7 +8,9 @@ Title:
 Description/Explanation/Lesson:
 
     In Python, an integer (int) is one of 3 distinct numeric types.
+        https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex
     In this exercise, you will subtract two integers using the minus (-) operator.
+        https://docs.python.org/3.6/library/operator.html#operator.sub
 
 Code Prompt/Challenge:
 
