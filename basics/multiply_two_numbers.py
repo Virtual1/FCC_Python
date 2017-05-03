@@ -11,6 +11,9 @@ Description/Explanation/Lesson:
         https://docs.python.org/3/library/operator.html#operator.mul
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
+    >>> 3 * 3
+    9
+
 Code Prompt/Challenge:
 
     Change the 0 so that product will equal 80.

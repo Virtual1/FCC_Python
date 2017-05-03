@@ -12,6 +12,9 @@ Description/Explanation/Lesson:
     In this exercise, you will add two integers using the plus (+) operator.
         https://docs.python.org/3.6/library/operator.html#operator.add
 
+    >>> 2 + 2
+    4
+
 Code Prompt/Challenge:
 
     Change the 0 so that total will equal 20.

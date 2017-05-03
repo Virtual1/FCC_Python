@@ -12,6 +12,9 @@ Description/Explanation/Lesson:
     In this exercise, you will subtract two integers using the minus (-) operator.
         https://docs.python.org/3.6/library/operator.html#operator.sub
 
+    >>> 2 - 1
+    1
+
 Code Prompt/Challenge:
 
     Change the 0 so that total will equal 10.

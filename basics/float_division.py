@@ -13,6 +13,11 @@ Description/Explanation/Lesson:
         https://docs.python.org/3/library/operator.html#operator.truediv
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
+    >>> 1 / 1
+    1.0
+    >>> 3 / 2
+    1.5
+
 Code Prompt/Challenge:
 
     When you run the existing code, the variable named quotient will have a value of 1.0.
