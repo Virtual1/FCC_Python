@@ -10,6 +10,7 @@ Description/Explanation/Lesson:
     Divmod takes two (non complex) numbers as arguments and returns a pair of numbers consisting of their quotient and remainder when using integer division.
     For integers, the result is the same as (a // b, a % b).
         https://docs.python.org/3/library/functions.html#divmod
+        https://forum.freecodecamp.com/t/python-function-divmod/75415
         https://docs.python.org/3.6/reference/expressions.html#index-59
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 

@@ -13,6 +13,7 @@ Description/Explanation/Lesson:
         https://docs.python.org/3/reference/expressions.html#the-power-operator
         https://docs.python.org/3.6/library/operator.html?highlight=operations#operator.pow
         https://docs.python.org/3/library/functions.html#pow
+        https://forum.freecodecamp.com/t/python-pow-x-y/19203
         https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 

@@ -11,6 +11,7 @@ Description/Explanation/Lesson:
     If a number is negative, abs() will convert it to positive.
     In abs(x), x may be an integer, float, or complex number.
         https://docs.python.org/3/library/functions.html#abs
+        https://forum.freecodecamp.com/t/python-abs-x-function/19212
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
     >>> abs(2)
