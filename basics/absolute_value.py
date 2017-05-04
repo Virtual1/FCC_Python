@@ -3,7 +3,7 @@ import unittest
 """
 Title:
 
-    Compute the absolute value of a number using the abs function.
+    Absolute Value
 
 Description/Explanation/Lesson:
 
