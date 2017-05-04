@@ -9,6 +9,7 @@ Description/Explanation/Lesson:
 
     Python uses the asterisk (*) operator for multiplication.
         https://docs.python.org/3/library/operator.html#operator.mul
+        https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
     >>> 3 * 3

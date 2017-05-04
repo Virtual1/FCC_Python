@@ -11,6 +11,7 @@ Description/Explanation/Lesson:
         https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex
     In this exercise, you will subtract two integers using the minus (-) operator.
         https://docs.python.org/3.6/library/operator.html#operator.sub
+        https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
 
     >>> 2 - 1
     1

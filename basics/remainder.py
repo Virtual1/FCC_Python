@@ -10,6 +10,7 @@ Description/Explanation/Lesson:
     The % (modulo) operator yields the remainder from the division of the first argument by the second.
         https://docs.python.org/3/library/operator.html#operator.mod
         https://docs.python.org/3.6/reference/expressions.html#index-59
+        https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
     >>> 3 % 2

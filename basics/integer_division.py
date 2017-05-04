@@ -11,6 +11,7 @@ Description/Explanation/Lesson:
     Python uses a double forward slash (//) operator for integer division.
     When using integer division, Python will round the quotient down to the nearest whole number.
         https://docs.python.org/3/library/operator.html#operator.floordiv
+        https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
     >>> 1 // 1

@@ -11,6 +11,7 @@ Description/Explanation/Lesson:
     Python uses a single forward slash (/) operator for float division.
     When using float division, even if the quotient (result) is a whole number like 1 or 2, a floating point number will be returned instead of an int.
         https://docs.python.org/3/library/operator.html#operator.truediv
+        https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
         https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
     >>> 1 / 1
