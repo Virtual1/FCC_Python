@@ -8,7 +8,7 @@ Title:
 Description/Explanation/Lesson:
 
     The function max() returns the largest item in an iterable (like a list or string), or the largest of two or more arguments.
-    While giving an iterable as an argument we must make sure that all the elements in the iterable are of the same type.
+    While giving an iterable as an argument we must make sure that all of the elements in the iterable are of the same type.
     If the iterable is empty and default is not provided, a ValueError is raised.
         https://docs.python.org/3/library/functions.html#max
         https://forum.freecodecamp.com/t/python-max-function/19205
@@ -18,9 +18,9 @@ Description/Explanation/Lesson:
     >>> list1 = ['a', 'e', 'i', 'o', 'u']
     >>> max(list1)
     'u'
-    >>> string1 = "abcdef"
+    >>> string1 = "largest"
     >>> max(string1)
-    'f'
+    't'
 
 
 Code Prompt/Challenge:
