@@ -1,4 +1,4 @@
-__Title:__  Python float division.
+__Title:__  Python Float Division
 
 __Description/Explanation/Lesson:__
 

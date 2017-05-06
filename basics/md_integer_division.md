@@ -1,4 +1,4 @@
-__Title:__ Python integer division.
+__Title:__ Python Integer Division
 
 __Description/Explanation/Lesson:__
 

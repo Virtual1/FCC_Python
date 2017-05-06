@@ -7,6 +7,4 @@ My main focus for now is writing code challenges and lessons that focus on Pytho
 The challenge_recipe.py file contains a template for the code challenges.  
 
 I am currently working on math lessons.  
-
-TODO:  
-Convert .py files to .md for sharing on the Github thread. 
+ 

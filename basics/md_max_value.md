@@ -1,4 +1,4 @@
-__Title:__ Python maximum value.
+__Title:__ Python Maximum Value
 
 __Description/Explanation/Lesson:__
 
