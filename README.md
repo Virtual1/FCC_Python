@@ -6,5 +6,4 @@ My main focus for now is writing code challenges and lessons that focus on Pytho
 
 The challenge_recipe.py file contains a template for the code challenges.  
 
-I am currently working on math lessons.  
- 
+I am currently working on lessons for operators and operations.  
