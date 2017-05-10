@@ -1,8 +1,9 @@
 ## Python Addition
 
 In Python, an integer (int) is one of 3 distinct numeric types.  
+- https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex  
+
 In this exercise, you will add two integers using the plus (+) operator.
-- https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex
 - https://docs.python.org/3.6/library/operator.html#operator.add
 - https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
 
