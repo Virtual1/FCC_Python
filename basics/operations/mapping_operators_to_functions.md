@@ -14,12 +14,12 @@ If you see an unfamiliar term, worry not young padawan. For reference only, this
 | Containment Test      | obj in seq        | contains(seq, obj)                |
 | Division              | a / b             | truediv(a, b)                     |
 | Division              | a // b            | floordiv(a, b)                    |
-| Bitwise And           | a & b             | and_(a, b)                        |
+| Bitwise And           | a & b             | and\_(a, b)                       |
 | Bitwise Exclusive Or  | a ^ b             | xor(a, b)                         |
 | Bitwise Inversion     | ~ a               | invert(a)                         |
-| Bitwise Or            | a | b             | or_(a, b)                         |
-| Exponentiation        | a ** b            | pow(a, b)                         |
-| Identity              | a is b            | is_(a, b)                         |
+| Bitwise Or            | a | b             | or\_(a, b)                        |
+| Exponentiation        | a \*\* b          | pow(a, b)                         |
+| Identity              | a is b            | is\_(a, b)                        |
 | Identity              | a is not b        | is_not(a, b)                      |
 | Indexed Assignment    | obj[k] = v        | setitem(obj, k, v)                |
 | Indexed Deletion      | del obj[k]        | delitem(obj, k)                   |
@@ -29,7 +29,7 @@ If you see an unfamiliar term, worry not young padawan. For reference only, this
 | Multiplication        | a * b             | mul(a, b)                         |
 | Matrix Multiplication | a @ b             | matmul(a, b)                      |
 | Negation (Arithmetic) | - a               | neg(a)                            |
-| Negation (Logical)    | not a             | not_(a)                           |
+| Negation (Logical)    | not a             | not\_(a)                          |
 | Positive              | + a               | pos(a)                            |
 | Right Shift           | a >> b            | rshift(a, b)                      |
 | Slice Assignment      | seq[i:j] = values | setitem(seq, slice(i, j), values) |

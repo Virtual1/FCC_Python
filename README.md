@@ -7,6 +7,8 @@ My main focus for now is writing code challenges and lessons that focus on Pytho
 The challenge_recipe.py file contains a template for the code challenges.  
 
 I am currently working on lessons for operators and operations.  
+TODO: https://docs.python.org/3.6/library/stdtypes.html#common-sequence-operations  
+might be a bit much for beginners; I'll throw it in and maybe move it to intermediate later.
 
 ###  Structure for coding challenges:  
 
