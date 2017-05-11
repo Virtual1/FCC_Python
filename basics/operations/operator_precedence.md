@@ -14,7 +14,7 @@ If you see an unfamiliar term, worry not young padawan. For reference only, this
 | and                                                                   | Boolean AND                                                             |
 | not x                                                                 | Boolean NOT                                                             |
 | in, not in, is, is not, <, <=, >, >=, !=, ==                          | Comparisons, including membership tests and identity tests              |
-| |                                                                     | Bitwise OR                                                              |
+| \|                                                                     | Bitwise OR                                                              |
 | ^                                                                     | Bitwise XOR                                                             |
 | &                                                                     | Bitwise AND                                                             |
 | <<, >>                                                                | Shifts                                                                  |
