@@ -24,7 +24,10 @@ Each lesson directory will contain four files:
 
 lesson_code.py will be loaded into the initial-code section (top left container) of the classroom.
 
-lesson_tests.py will be loaded into a hidden unittest file (behind the scenes).
+lesson_tests.py will be loaded into a hidden unittest file (behind the scenes).   
+To run the tests from the console:
+1. Make sure that you are in the \<lesson> directory
+2. `⇒  python3 -m unittest test_<lesson>`
 
 lesson.md will be loaded into the markdown section (bottom right container) of the classroom.
 
