@@ -8,3 +8,4 @@
 # https://docs.python.org/3/reference/expressions.html#operator-precedence
 # https://docs.python.org/3.6/library/stdtypes.html
 # https://docs.python.org/3.6/library/stdtypes.html#common-sequence-operations
+# https://docs.python.org/3.6/library/stdtypes.html#mutable-sequence-types

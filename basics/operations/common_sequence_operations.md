@@ -1,4 +1,4 @@
-## Common Sequence Operations
+## [Common Sequence Operations](https://docs.python.org/3.6/library/stdtypes.html#common-sequence-operations)
 
 There are three basic sequence types: lists, tuples, and range objects. Additional sequence types tailored for processing of binary data and text strings are described in dedicated sections.
 

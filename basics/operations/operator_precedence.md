@@ -1,5 +1,5 @@
-## Operator Precedence / Order of Operations  
-### From the [Python Documentation](https://docs.python.org/3/reference/expressions.html#operator-precedence)  
+## [Operator Precedence / Order of Operations](https://docs.python.org/3/reference/expressions.html#operator-precedence)  
+
 The following table summarizes the operator precedence in Python, top to bottom, from lowest precedence (least binding) to highest precedence (most binding).
 
 **Note**  
