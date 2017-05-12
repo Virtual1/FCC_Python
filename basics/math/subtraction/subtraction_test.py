@@ -1,9 +1,9 @@
 import unittest
-import subtraction
+import subtraction_code
 
 class SubtractionTests(unittest.TestCase):
     def test_main(self):
-        total = subtraction.total
+        total = subtraction_code.total
         self.assertIsInstance(total, int)
         self.assertEqual(total, 10)
 
