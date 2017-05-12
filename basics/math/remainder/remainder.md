@@ -1,6 +1,4 @@
-__Title:__ Python Remainder
-
-__Description/Explanation/Lesson:__
+## Python Remainder
 
 The % (modulo) operator yields the remainder from the division of the first argument by the second.  
 The numeric arguments are first converted to a common type.  
@@ -19,7 +17,7 @@ The numeric arguments are first converted to a common type.
 
 A simple way to determine if a number is odd or even is to check the remainder when that number is divided by 2.  
 For odd numbers, the remainder is 1.  
-For even numbers, the remainder is 0.
+For even numbers, the remainder is 0.  
 ```
 >>> 3 % 2
 1
@@ -27,24 +25,5 @@ For even numbers, the remainder is 0.
 0
 ```
 
-__Code Prompt/Challenge:__
-
-Set the variable remainder equal to the remainder of 11 divided by 3 using the modulo (%) operator.
-
-__Pre-defined Code:__
-```
-remainder = "Solution goes here"
-```
-
-__Solution:__
-```
-remainder = 11 % 3
-```
-
-__Tests:__
-```
-class UnitTests(unittest.TestCase):
-    def test_main(self):
-        self.assertIsInstance(remainder, int)
-        self.assertEqual(remainder, 2)
-```
+**_Instructions:_**  
+**Define a variable named remainder and assign it a value equal to the remainder of 11 divided by 3 using the modulo (%) operator.**
