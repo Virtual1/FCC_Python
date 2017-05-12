@@ -13,6 +13,6 @@ When using float division, even if the quotient (result) is a whole number like 
 1.5
 ```
 
-**_Instructions_**  
+**_Instructions:_**  
 **When you run the existing code, the variable named quotient will have a value of 1.0**    
 **Change the the second number (the denominator) so that quotient has a value of 2.5**  
