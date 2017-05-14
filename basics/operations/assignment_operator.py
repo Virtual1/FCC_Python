@@ -1,10 +1,3 @@
-#
-
-"""
-In Python the assignment operator is represented by a single equals sign (=).
-Assignment statements are used to (re)bind names to values and to modify attributes or items of mutable objects.
-"""
-
 # Comment below the following details:
 # Title
 # Description/Explanation/Lesson
