@@ -27,7 +27,7 @@ lesson_code.py will be loaded into the initial-code section (top left container)
 lesson_tests.py will be loaded into a hidden unittest file (behind the scenes).   
 To run the tests from the console:
 1. Make sure that you are in the \<lesson> directory
-2. `⇒  python3 -m unittest test_<lesson>`
+2. `⇒  python3 -m unittest <lesson>_test`
 
 lesson.md will be loaded into the markdown section (bottom right container) of the classroom.
 
