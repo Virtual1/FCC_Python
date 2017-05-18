@@ -4,6 +4,7 @@ The inequality operator (!=) does the opposite of the equality operator, as you 
 It means "Not Equal" and returns false where the equality operator would return true and vice versa.
 - https://docs.python.org/3/reference/expressions.html#comparisons  
 - https://docs.python.org/3/reference/expressions.html#value-comparisons
+- https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
 - https://docs.python.org/3/library/operator.html#operator.ne  
 ```
 >>> a = 1
