@@ -12,6 +12,7 @@ class StrictlyGreaterThanOperatorTests(unittest.TestCase):
         self.assertEqual(strictly_greater_than(100), "Greater than 10")
         self.assertEqual(strictly_greater_than(101), "Greater than 100")
         self.assertEqual(strictly_greater_than(111), "Greater than 100")
+        
     def test_operator_presence(self):
         f = open('strictly_greater_than_operator_code.py')
         lines = str(f.readlines())
