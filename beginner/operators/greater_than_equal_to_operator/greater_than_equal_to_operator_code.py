@@ -6,4 +6,5 @@ def greater_or_equal(value):
     else:
         return "Less than 20"
 
+# Change the value 1 below to experiment with different values
 print(greater_or_equal(1))

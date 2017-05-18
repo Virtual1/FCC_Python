@@ -1,7 +1,7 @@
 import unittest
 from greater_than_equal_to_operator_code import greater_or_equal
 
-class StrictlyGreaterThanOperatorTests(unittest.TestCase):
+class GreaterThanEqualToOperatorTests(unittest.TestCase):
     def test_main(self):
         self.assertIsNotNone(greater_or_equal(1))
         self.assertIsInstance(greater_or_equal(1), str)
