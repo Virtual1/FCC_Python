@@ -19,4 +19,4 @@ True
 **_Instructions:_**  
 **In the console there is a function named equality with a single argument named value.**  
 **The function contains an incomplete if/else statement.**
-**Complete the if statement so that the string "Equal" will be returned when the variable value is equivalent to 12.**
+**Complete the if statement so that the string "Equal to 12" will be returned when the variable value is equivalent to 12.**

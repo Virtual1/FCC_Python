@@ -26,4 +26,5 @@ For even numbers, the remainder is 0.
 ```
 
 **_Instructions:_**  
-**Define a variable named remainder and assign it a value equal to the remainder of 11 divided by 3 using the modulo (%) operator.**
+**Delete the string assigned to the variable named remainder.**  
+**Assign remainder a value equal to the remainder of 11 divided by 3 using the modulo (%) operator.**  

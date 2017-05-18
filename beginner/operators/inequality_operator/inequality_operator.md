@@ -16,7 +16,7 @@ False
 True
 ```
 
-**_Instructions_**  
+**_Instructions:_**  
 **In the console there is a function named inequality with a single argument named value.**  
 **The function contains an incomplete if/else statement.**  
-**Complete the if statement so that the string "Not Equal" will be returned when the variable is equivalent to 13.**
+**Complete the if statement so that the string "Not Equal to 13" will be returned when the variable is equivalent to 13.**
