@@ -1,6 +1,6 @@
 ## Python Equality Operator  
 
-The equality operator (==) compares two values and returns true if they're equivalent or false if they are not.  
+The equality operator (==) compares two values and returns True if they're equivalent or False if they are not.  
 Note that equality is different from assignment (=), which assigns the value at the right of the operator to a variable in the left.  
 - https://docs.python.org/3/reference/expressions.html#comparisons  
 - https://docs.python.org/3/reference/expressions.html#value-comparisons

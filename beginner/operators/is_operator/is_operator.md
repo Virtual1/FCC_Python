@@ -1,9 +1,11 @@
 ## Python is Operator
 
 Python's is operator tests for object identity, or whether two different variables are pointing to the same object.  
-In other words, the statement 'x is y' is true if and only if x and y are the same object.  
-This is different from the equality operator (==), which tests only if two objects are equivalent.
+In other words, the statement 'x is y' is true if and only if x and y are the same object.
+Object identity is determined using the id() function.  
+This is different from the equality operator (==), which tests only if two objects are equivalent.  
 - https://docs.python.org/3.6/reference/expressions.html#is-not
+- https://docs.python.org/3.6/library/functions.html#id
 - https://docs.python.org/3.6/library/stdtypes.html#comparisons
 - https://docs.python.org/3/reference/expressions.html#operator-precedence
 ```

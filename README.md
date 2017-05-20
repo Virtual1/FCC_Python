@@ -8,8 +8,7 @@ The challenge_recipe.py file contains a template for the code challenges.
 
 I am currently working on lessons for operators -- TODO:  
 - True, False, and, or, not
-- in, not in
-- is, is not  
+- in, not in    
 
 ### [Curriculum Outline and Organization](https://github.com/freeCodeCamp/python-coding-challenges/issues/8)
 
