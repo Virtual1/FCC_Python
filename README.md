@@ -1,6 +1,9 @@
 ## FCC_Python
 
-[FreeCodeCamp](https://www.freecodecamp.com) is building a Python curriculum and I want to help.  
+[FreeCodeCamp](https://www.freecodecamp.com) is building a Python curriculum and I want to help.
+
+### First things first  
+I need to update and rename the lesson test files to fit the FCC naming convention. 
 
 My main focus for now is writing code challenges and lessons that focus on Python basics.
 
