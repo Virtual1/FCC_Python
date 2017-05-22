@@ -1,8 +1,8 @@
 import unittest
-import max_value_code
+import lesson_code
 
 class MaxValueTests(unittest.TestCase):
     def test_main(self):
-        highest = max_value_code.highest 
+        highest = lesson_code.highest 
         self.assertIsInstance(highest, int)
         self.assertEqual(highest, 9)

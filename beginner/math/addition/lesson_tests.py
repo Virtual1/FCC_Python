@@ -1,9 +1,9 @@
 import unittest
-import addition
+import lesson_code
 
 class AdditionTests(unittest.TestCase):
     def test_main(self):
-        total = addition.total
+        total = lesson_code.total
         self.assertIsInstance(total, int)
         self.assertEqual(total, 20)
 

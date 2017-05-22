@@ -1,8 +1,8 @@
 import unittest
-import integer_division_code
+import lesson_code
 
 class IntegerDivisionTests(unittest.TestCase):
     def test_main(self):
-        quotient = integer_division_code.quotient
+        quotient = lesson_code.quotient
         self.assertIsInstance(quotient, int)
         self.assertEqual(quotient, 2)
