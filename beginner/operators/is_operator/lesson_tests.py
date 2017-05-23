@@ -1,5 +1,5 @@
 import unittest
-from is_operator_code import identity_test
+from lesson_code import identity_test
 
 class IdentityOperatorTests(unittest.TestCase):
     def test_main(self):

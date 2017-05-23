@@ -1,5 +1,5 @@
 import unittest
-from greater_than_equal_to_operator_code import greater_or_equal
+from lesson_code import greater_or_equal
 
 class GreaterThanEqualToOperatorTests(unittest.TestCase):
     def test_main(self):
@@ -13,7 +13,7 @@ class GreaterThanEqualToOperatorTests(unittest.TestCase):
         self.assertEqual(greater_or_equal(51), "50 or more")
 
     def test_operator_presence(self):
-        f = open('greater_than_equal_to_operator_code.py')
+        f = open('lesson_code.py')
         lines = str(f.readlines())
         f.close()
         self.assertRegex(lines, '>=', msg="The >= operator is not in the function definition")

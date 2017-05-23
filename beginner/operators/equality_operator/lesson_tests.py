@@ -1,5 +1,5 @@
 import unittest
-from equality_operator_code import equality
+from lesson_code import equality
 
 class EqualityOperatorTests(unittest.TestCase):
     def test_main(self):
@@ -9,7 +9,7 @@ class EqualityOperatorTests(unittest.TestCase):
         self.assertNotEqual(equality(12), 'Not Equal to 12')
 
     def test_operator_presence(self):
-        f = open('equality_operator_code.py')
+        f = open('lesson_code.py')
         lines = str(f.readlines())
         f.close()
         self.assertRegex(lines, '==', msg="The == operator is not in the function definition")
