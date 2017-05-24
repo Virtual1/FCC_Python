@@ -9,4 +9,4 @@ class SubtractionTests(unittest.TestCase):
 
 # To run the tests from the console:
 # Make sure that you are in the 'subtraction' directory
-# ⇒  python3 -m unittest test_subtraction
+# ⇒  python3 -m unittest lesson_tests

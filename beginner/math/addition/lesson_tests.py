@@ -9,4 +9,4 @@ class AdditionTests(unittest.TestCase):
 
 # To run the tests from the console:
 # Make sure that you are in the 'addition' directory
-# ⇒  python3 -m unittest test_addition
+# ⇒  python3 -m unittest lesson_tests
