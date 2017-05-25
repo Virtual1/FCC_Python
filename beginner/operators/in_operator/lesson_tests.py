@@ -7,5 +7,6 @@ class TestMembership(unittest.TestCase):
         word = lesson_code.word
         sentence = lesson_code.sentence
         self.assertIsNotNone(membership_test())
+        self.assertEqual(membership_test(), True)
         self.assertTrue(membership_test())
         self.assertIn(word, sentence)
