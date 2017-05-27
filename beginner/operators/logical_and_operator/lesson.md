@@ -1,4 +1,4 @@
-## Python `and` Operator
+## Python Logical `and` Operator
 
 The `and` operator is used in the context of boolean operations to determine whether a statement is true or false.  
 If both arguments (or all if there are more than two) in a statement are true, then the entire statement is true.  

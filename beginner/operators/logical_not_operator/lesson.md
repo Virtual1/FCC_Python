@@ -1,4 +1,4 @@
-## Python `not` Operator  
+## Python Logical `not` Operator  
 
 The `not` operator is used in the context of boolean operations to determine whether a statement is true or false.  
 The `not` operator yields True if its argument is false, and False otherwise.  
