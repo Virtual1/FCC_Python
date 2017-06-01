@@ -28,10 +28,29 @@ lesson_code.py will be loaded into the initial-code section (top left container)
 lesson_tests.py will be loaded into a hidden unittest file (behind the scenes).   
 To run the tests from the console:
 1. Make sure that you are in the \<lesson> directory
-2. `⇒  python3 -m unittest <lesson>_test`
+2. `⇒  python3 -m unittest <lesson>_tests`
 
 lesson.md will be loaded into the markdown section (bottom right container) of the classroom.
 
 lesson_settings.json will be used to store information such as Title, Chapter, Lesson number, ID(?). This will mainly be for FCC, but repl will be able to utilize the Title property and maybe the ID property.
 
 Each Repl.it Classroom lesson url will be added to the challenges.json file in the project root directory.
+
+### Adding a new challenge or fixing an existing one?
+
+- Generating challenge ID:
+  1. Open your terminal
+  2. run `mongo`
+  3. run `ObjectId()`
+  4. copy string and paste into lesson_settings.json
+
+- Building challenges.json file:
+  1. Open your terminal
+  2. Navigate to project directory
+  3. run `node generate-challenge-json.js`
+  4. if no errors are thrown you're good to commit and open a pr
+
+- Opening a PR
+  1. Include a reference to the issue
+  2. If its a new challenge, mention the chapter its being added to
+  3. continue being awesome and helping us create this curriculum!
