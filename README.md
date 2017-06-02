@@ -6,9 +6,6 @@ My main focus for now is writing code challenges and lessons that focus on Pytho
 
 The challenge_recipe.py file contains a template for the code challenges.  
 
-I am currently working on lessons for operators -- TODO:  
-- True, False      
-
 ### [Curriculum Outline and Organization](https://github.com/freeCodeCamp/python-coding-challenges/issues/8)
 
 In the root directory of the project there will exist a directory: **challenges**, and a file called **classroom_settings.json**
@@ -36,7 +33,7 @@ lesson_settings.json will be used to store information such as Title, Chapter, L
 
 Each Repl.it Classroom lesson url will be added to the challenges.json file in the project root directory.
 
-### Adding a new challenge or fixing an existing one?
+### Adding a new challenge or fixing an existing one? (must be done in the python-coding-challenges repo)
 
 - Generating challenge ID:
   1. Open your terminal
