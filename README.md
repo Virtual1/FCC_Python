@@ -1,8 +1,10 @@
 ## FCC_Python
 
-[FreeCodeCamp](https://www.freecodecamp.com) is building a Python curriculum and I want to help.
+[FreeCodeCamp](https://www.freecodecamp.com) is building a Python curriculum and I want to help.  
 
-My main focus for now is writing code challenges and lessons that focus on Python basics.
+View live: https://freecodecamp.github.io/python-coding-challenges
+
+My main focus for now is writing code challenges and lessons that focus on Python basics.  
 
 The challenge_recipe.py file contains a template for the code challenges.  
 
@@ -51,3 +53,5 @@ Each Repl.it Classroom lesson url will be added to the challenges.json file in t
   1. Include a reference to the issue
   2. If its a new challenge, mention the chapter its being added to
   3. continue being awesome and helping us create this curriculum!
+
+## TODO -- Data Types -- beginner/data_types/built_in_data_types.md
