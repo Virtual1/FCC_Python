@@ -24,3 +24,7 @@
 
 ### The isinstance() built-in function is recommended for testing the type of an object, because it takes subclasses into account.  
 - https://docs.python.org/3/library/functions.html#isinstance
+
+Generate Markdown Tables:  
+- http://truben.no/table/
+- http://www.tablesgenerator.com/markdown_tables
