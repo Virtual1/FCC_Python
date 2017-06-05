@@ -7,7 +7,7 @@
 - Iterator and Generator Types (maybe better for intermediate)
 - Sequence Types: list, tuple, range
 - Text Sequence Type: str  
-- Binary Sequence Types: bytes, bytearray, memoryview
+- Binary Sequence Types: byte, bytearray, memoryview
 - Set Types: set, frozenset  
 - Mapping Type: dict
 - Other Built-in Types: Modules, Classes and Class Instances, Functions, Methods, Code Objects, Type Objects, The Null Object, The Ellipsis Object, The NotImplemented Object, Boolean Values (only some items in this list are beginner-level.)  
