@@ -20,3 +20,7 @@
 - http://www.diveintopython3.net/native-datatypes.html
 - https://www.tutorialspoint.com/python/python_variable_types.htm
 - http://www.w3resource.com/python/python-data-type.php
+
+
+### The isinstance() built-in function is recommended for testing the type of an object, because it takes subclasses into account.  
+- https://docs.python.org/3/library/functions.html#isinstance
