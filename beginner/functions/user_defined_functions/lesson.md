@@ -18,7 +18,7 @@ After a function has been defined, it can be called by typing the function name 
 True
 ```
 
-**_Instructions_**  
+**_Instructions:_**  
 **Define a function named say_hello() that has no parameters and prints the string "Hello World!" to the console.**  
 **Your function should not contain a return statement, only a print statement.**  
 **After you have defined the function, call it.**
