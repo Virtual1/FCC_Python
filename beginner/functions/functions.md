@@ -13,6 +13,7 @@ anonymous functions? -- maybe better left to intermediate section
 - https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions
 - https://docs.python.org/3/library/functions.html#built-in-functions
 - https://www.tutorialspoint.com/python/python_functions.htm
+- http://www.python-course.eu/python3_functions.php
 
 
 ### [Writing user-defined functions in Python](https://www.codementor.io/python/tutorial/user-defined-functions-in-python-beginners)  
