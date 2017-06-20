@@ -55,3 +55,5 @@ Each Repl.it Classroom lesson url will be added to the challenges.json file in t
   3. continue being awesome and helping us create this curriculum!
 
 ## TODO -- Functions -- functions.md
+
+## BUT FIRST -- Update import statements for lesson_tests.py files in challenges directory -- completed chapters 1,2
