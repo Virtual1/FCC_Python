@@ -17,17 +17,17 @@ Due note that chapter and lesson numbers is for our organization purposes and wi
 
 Each lesson directory will contain four files:
 
-1. lesson_code.py
+1. main.py
 2. lesson_tests.py
 3. lesson.md
 4. lesson_settings.json  
 
-lesson_code.py will be loaded into the initial-code section (top left container) of the classroom.
+main.py will be loaded into the initial-code section (top left container) of the classroom.
 
 lesson_tests.py will be loaded into a hidden unittest file (behind the scenes).   
 To run the tests from the console:
 1. Make sure that you are in the \<lesson> directory
-2. `⇒  python3 -m unittest <lesson>_tests`
+2. `⇒  python3 -m unittest lesson_tests`
 
 lesson.md will be loaded into the markdown section (bottom right container) of the classroom.
 
@@ -55,5 +55,3 @@ Each Repl.it Classroom lesson url will be added to the challenges.json file in t
   3. continue being awesome and helping us create this curriculum!
 
 ## TODO -- Functions -- functions.md
-
-## BUT FIRST -- Update import statements for lesson_tests.py files in challenges directory -- completed chapters 1,2,3,4
