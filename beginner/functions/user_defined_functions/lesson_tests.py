@@ -1,7 +1,7 @@
 import unittest
 import sys
 from io import StringIO
-from lesson_code import say_hello
+from main import *
 
 class UserDefinedFunctionsTests(unittest.TestCase):
     def test_main(self):
@@ -10,7 +10,7 @@ class UserDefinedFunctionsTests(unittest.TestCase):
 
     def test_function_name(self):
         # Make sure that the function has the correct name.
-        f = open('lesson_code.py')
+        f = open('main.py')
         lines = str(f.readlines())
         f.close()
         self.assertRegex(lines, 'say_hello()', msg="The name of the function is incorrect.")

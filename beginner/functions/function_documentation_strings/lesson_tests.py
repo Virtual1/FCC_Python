@@ -1,5 +1,5 @@
 import unittest
-from lesson_code import docstring_function
+from main import *
 
 class FunctionDocumentationStringsTests(unittest.TestCase):
     def test_main(self):

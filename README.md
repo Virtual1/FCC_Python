@@ -54,4 +54,4 @@ Each Repl.it Classroom lesson url will be added to the challenges.json file in t
   2. If its a new challenge, mention the chapter its being added to
   3. continue being awesome and helping us create this curriculum!
 
-## TODO -- Functions -- functions.md
+## TODO -- Functions
