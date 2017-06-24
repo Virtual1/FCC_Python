@@ -9,7 +9,8 @@ After a function has been defined, it can be called by typing the function name 
 - https://docs.python.org/3/glossary.html#term-argument
 - https://docs.python.org/3/tutorial/controlflow.html#defining-functions  
 - https://docs.python.org/3/reference/compound_stmts.html#def
-- https://docs.python.org/3/reference/expressions.html#calls  
+- https://docs.python.org/3/reference/expressions.html#calls
+- https://www.python.org/dev/peps/pep-0008/#function-names  
 ```
 >>> def the_truth():
 ...     return True
