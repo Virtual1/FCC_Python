@@ -9,7 +9,7 @@ variable scope? -- maybe better left to variables section
 anonymous functions? -- maybe better left to intermediate section
 
 
-- https://docs.python.org/2/tutorial/controlflow.html#defining-functions
+- https://docs.python.org/3.6/tutorial/controlflow.html#defining-functions
 - https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions
 - https://docs.python.org/3/library/functions.html#built-in-functions
 - https://www.tutorialspoint.com/python/python_functions.htm
