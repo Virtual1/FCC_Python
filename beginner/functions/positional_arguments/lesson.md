@@ -31,3 +31,10 @@ When a function is defined and the parameters are declared, variable positional 
 >>> print(some_dr_seuss('arg1', 'arg2', 'arg_red', 'arg_blue'))
 ('arg1', 'arg2', ('arg_red', 'arg_blue'))
 ```
+**_Instructions:_**  
+**In the console there is a function named positional_argument_example() that takes a default argument and an unspecified number of positional arguments.**  
+**When you call the function:**  
+- **Enter an integer, your age, as the value for the default argument named your_age.**
+- **Assign two strings, the first with your first name, the second with your last name, as the variable positional arguments**.  
+
+**Assign your function call to the variable named about_me.*
