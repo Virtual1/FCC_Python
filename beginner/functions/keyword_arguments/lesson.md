@@ -1,8 +1,8 @@
-## Keyword Arguments  
+## Keyword and Variable Keyword Arguments  
 
 A keyword argument can be an argument preceded by an identifier in a function call using the form `kwarg=value`.  
-Keyword arguments can also be passed as values in a dictionary preceded by `**`, like this:    
-`def example(default_arguments, *positional_arguments, **kwargs):`  
+Variable keyword arguments can be passed as values in a dictionary preceded by `**`, like this:    
+`def example(default_arguments, *args, **kwargs):`  
 In a function call, keyword arguments must follow positional arguments, and all keyword arguments passed must match one of the arguments accepted by the function.  
 [Here is a detailed explanation](https://docs.python.org/3/reference/expressions.html#calls) of how keyword arguments are dealt with when the function is called.  
 - https://docs.python.org/3.6/tutorial/controlflow.html#keyword-arguments
@@ -20,6 +20,15 @@ In a function call, keyword arguments must follow positional arguments, and all 
 (3+5j)
 >>> complex(**{'real': 3, 'imag': 5})
 (3+5j)
+```
+```
+>>> # arg1 and arg2 are keyword arguments, **kwargs is for variable keyword arguments
+...
+>>> >>> def some_dr_seuss(arg1='arg1', arg2='arg2', **kwargs):
+...     return arg1, arg2, kwargs
+...
+>>> print(some_dr_seuss(**{'arg3': 'arg_red', 'arg4': 'arg_blue'}))
+('arg1', 'arg2', {'arg3': 'arg_red', 'arg4': 'arg_blue'})
 ```
 **_Instructions:_**  
 **In the console there is a function named keyword_argument_example() that takes a default argument an an unspecified number of keyword arguments.**  
