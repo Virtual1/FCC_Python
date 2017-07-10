@@ -30,5 +30,5 @@ file=’’
 >> print("no", file=fh)
 >>> fh.close()
 ```
-** Instruction **
-** Put your name and sname to appropriate places, change '*' to parameters of separator '_' and in the end of the line '!'. **
+**_Instructions:_**
+**Put your name and sname to appropriate places, change '*' to parameters of separator '_' and in the end of the line '!'.**
